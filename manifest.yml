@@ -6,5 +6,5 @@ applications:
   buildpack: java_buildpack
   path: ./target/<replace-me-with-artifactId-from-pom.xml>-1.0-SNAPSHOT.jar
   memory: 1024M
-  domain: not-used.net
+  domain: simple-toolchain-20200731015539050.mybluemix.net
   host: not-used
